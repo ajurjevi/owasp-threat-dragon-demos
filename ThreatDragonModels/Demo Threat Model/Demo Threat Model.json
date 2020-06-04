@@ -16,7 +16,7 @@
     ],
     "diagrams": [
       {
-        "title": "Main Request Data Flow",
+        "title": "Data flow diagram v1",
         "thumbnail": "./public/content/images/thumbnail.jpg",
         "id": 0,
         "diagramJson": {
